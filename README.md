@@ -2,3 +2,5 @@
 
 
 This is the official repository of the CIM-WV dataset.
+
+CIM-WV will be available soon once the paper is published.
