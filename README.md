@@ -6,6 +6,8 @@ Li, M., Yeh, A. G. & Xue, F. (2023). CIM-WV: A 2D semantic segmentation dataset 
 
 This study was supported in part by the Department of Science and Technology of Guangdong Province (GDST) (2020B1212030009, 2023A1515010757) and the University of Hong Kong (203720465).
 
+The link to the dataset is: https://doi.org/10.25442/hku.24647487.v1
+
 
 # Overview of CIM-WV
 
